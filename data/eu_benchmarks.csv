@@ -1,0 +1,7 @@
+sector,benchmark,basis,source
+Iron & Steel,1.364,"route (C) BF/BOF, CN 7207 11 14",IR (EU) 2025/2620
+Steel Articles,1.364,"route (C) BF/BOF, precursor semis",IR (EU) 2025/2620
+Aluminium,1.431,"tonnage-weighted: 7601 1.423 (88.8%), 7616 99 90 1.485 (9.2%), other 1.55 (2.0%)",IR (EU) 2025/2620; back-derived from cbamdefaults.com calculator
+Cement,0.666,grey clinker/cement,IR (EU) 2025/2620
+Fertilisers,0.902,urea,IR (EU) 2025/2620
+Hydrogen,5.089,hydrogen,IR (EU) 2025/2620

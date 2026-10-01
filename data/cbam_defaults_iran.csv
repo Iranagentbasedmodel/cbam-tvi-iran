@@ -1,0 +1,7 @@
+sector,default_weighted,default_min,default_max,direct_share,n_cn_codes,reference_default,reference_cn,weighting,source
+Iron & Steel,1.96,1.69,3.98,1.0,195,1.94,7207 11 14,"tonnage-weighted, cn_weighting_steel_2024.csv","IR (EU) 2025/2621 as amended by IR (EU) 2026/1740 (via cbamdefaults.com, Iran page)"
+Steel Articles,1.94,1.69,3.98,1.0,50,,,semi-finished reference default,"IR (EU) 2025/2621 as amended by IR (EU) 2026/1740 (via cbamdefaults.com, Iran page)"
+Aluminium,1.78,1.7,2.49,1.0,24,,,"tonnage-weighted, cn_weighting_aluminium_2024.csv","IR (EU) 2025/2621 as amended by IR (EU) 2026/1740 (via cbamdefaults.com, Iran page)"
+Cement,1.44,1.38,1.53,0.944,3,,,sector representative default,"IR (EU) 2025/2621 as amended by IR (EU) 2026/1740 (via cbamdefaults.com, Iran page)"
+Fertilisers,1.45,0.34,3.88,0.931,27,,,sector representative default,"IR (EU) 2025/2621 as amended by IR (EU) 2026/1740 (via cbamdefaults.com, Iran page)"
+Hydrogen,14.03,14.03,14.03,1.0,1,,,sector representative default,"IR (EU) 2025/2621 as amended by IR (EU) 2026/1740 (via cbamdefaults.com, Iran page)"

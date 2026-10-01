@@ -1,0 +1,32 @@
+{
+  "year": 2024,
+  "method": "partner-reported imports from Iran (partner 364, flow M, all reporters, customs C00, mot 0), UN Comtrade public preview API, aggregateBy=reporterCode,cmdCode; retrieved 2026-09-29; values primaryValue (mostly CIF)",
+  "raw_usd": {
+    "ch72_total": 1528482739.221,
+    "non_cbam_7202": 110780970.043,
+    "steel_articles": 197546641.212,
+    "aluminium": 651057361.303,
+    "cement_2523": 247199120.062,
+    "fertilisers": 30033958.96,
+    "hydrogen_280410": 0
+  },
+  "raw_2023_usd": {
+    "ch72_total": 1225342299.466,
+    "non_cbam_7202": 100873658.392,
+    "steel_articles": 115694552.562,
+    "aluminium": 591455737.401,
+    "cement_2523": 321397739.596,
+    "fertilisers": 59736611.651
+  },
+  "raw_2022_usd": {
+    "ch72_total": 1855014530.617
+  },
+  "world_exports_usd": {
+    "Iron & Steel": 1417701769.178,
+    "Steel Articles": 197546641.212,
+    "Aluminium": 651057361.303,
+    "Cement": 247199120.062,
+    "Fertilisers": 30033958.96,
+    "Hydrogen": 0.0
+  }
+}

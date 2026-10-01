@@ -1,0 +1,495 @@
+{
+  "_metadata": {
+    "description": "Complete list of data sources with direct links",
+    "compiled": "2026-09-29",
+    "count": 72
+  },
+  "sources": [
+    {
+      "id": 1,
+      "category": "1. Official EU CBAM Data",
+      "data": "Official CBAM default values for Iran (all sectors)",
+      "source": "cbamdefaults.com",
+      "url": "https://cbamdefaults.com/cbam/iran-islamic-republic-of/iron-steel"
+    },
+    {
+      "id": 2,
+      "category": "1. Official EU CBAM Data",
+      "data": "CBAM default values — Iran Iron & Steel (195 CN codes)",
+      "source": "cbamdefaults.com",
+      "url": "https://cbamdefaults.com/cbam/iran-islamic-republic-of/iron-steel"
+    },
+    {
+      "id": 3,
+      "category": "1. Official EU CBAM Data",
+      "data": "CBAM default values — Iran Aluminium (24 CN codes)",
+      "source": "cbamdefaults.com",
+      "url": "https://cbamdefaults.com/cbam/iran-islamic-republic-of/aluminium"
+    },
+    {
+      "id": 4,
+      "category": "1. Official EU CBAM Data",
+      "data": "CBAM default values — Iran Cement (3 CN codes)",
+      "source": "cbamdefaults.com",
+      "url": "https://cbamdefaults.com/cbam/iran-islamic-republic-of/cement"
+    },
+    {
+      "id": 5,
+      "category": "1. Official EU CBAM Data",
+      "data": "CBAM default values — Iran Fertilisers (27 CN codes)",
+      "source": "cbamdefaults.com",
+      "url": "https://cbamdefaults.com/cbam/iran-islamic-republic-of/fertilisers"
+    },
+    {
+      "id": 6,
+      "category": "1. Official EU CBAM Data",
+      "data": "CBAM default values — Iran Hydrogen (1 CN code)",
+      "source": "cbamdefaults.com",
+      "url": "https://cbamdefaults.com/cbam/iran-islamic-republic-of/hydrogen"
+    },
+    {
+      "id": 7,
+      "category": "1. Official EU CBAM Data",
+      "data": "CBAM legislation and guidance (main page)",
+      "source": "European Commission — Taxation and Customs Union",
+      "url": "https://taxation-customs.ec.europa.eu/carbon-border-adjustment-mechanism/cbam-legislation-and-guidance_en"
+    },
+    {
+      "id": 8,
+      "category": "1. Official EU CBAM Data",
+      "data": "Commission Implementing Regulation (EU) 2025/2621 — Default values",
+      "source": "EUR-Lex",
+      "url": "https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=OJ:L_202502083"
+    },
+    {
+      "id": 9,
+      "category": "1. Official EU CBAM Data",
+      "data": "Commission Implementing Regulation (EU) 2026/1740 — Correcting act",
+      "source": "European Commission",
+      "url": "https://taxation-customs.ec.europa.eu/carbon-border-adjustment-mechanism/cbam-communication-and-news_en"
+    },
+    {
+      "id": 10,
+      "category": "1. Official EU CBAM Data",
+      "data": "CBAM definitive regime (overview)",
+      "source": "European Commission",
+      "url": "https://taxation-customs.ec.europa.eu/carbon-border-adjustment-mechanism/cbam-definitive-regime_en"
+    },
+    {
+      "id": 11,
+      "category": "1. Official EU CBAM Data",
+      "data": "CBAM Guidance Document 5a — Cement",
+      "source": "European Commission",
+      "url": "https://taxation-customs.ec.europa.eu/document/download/f87a2022-9dcb-45cb-a415-4c460e5ad672_en"
+    },
+    {
+      "id": 12,
+      "category": "1. Official EU CBAM Data",
+      "data": "CBAM Guidance Document 5d — Iron and Steel",
+      "source": "European Commission",
+      "url": "https://taxation-customs.ec.europa.eu/document/download/3eb64513-8255-4c71-875a-bd0a8c7ff772_en"
+    },
+    {
+      "id": 13,
+      "category": "1. Official EU CBAM Data",
+      "data": "CBAM Guidance Document 5e — Aluminium",
+      "source": "European Commission",
+      "url": "https://taxation-customs.ec.europa.eu/carbon-border-adjustment-mechanism/cbam-legislation-and-guidance_en"
+    },
+    {
+      "id": 14,
+      "category": "1. Official EU CBAM Data",
+      "data": "CBAM Guidance Document 3 — Calculation methods",
+      "source": "European Commission",
+      "url": "https://taxation-customs.ec.europa.eu/document/download/29b9eec7-1a4b-4eb6-ab85-96a0c9e35fd0_en"
+    },
+    {
+      "id": 15,
+      "category": "1. Official EU CBAM Data",
+      "data": "CBAM Guidance Document 4 — Free allocation calculation",
+      "source": "European Commission",
+      "url": "https://taxation-customs.ec.europa.eu/document/download/3aa2c730-4f1b-4524-8f71-d9cfe4880ac7_en"
+    },
+    {
+      "id": 16,
+      "category": "2. EU Benchmark Values",
+      "data": "EU CBAM committee approved revised default/benchmark values",
+      "source": "S&P Global (Dec 2025)",
+      "url": "https://www.spglobal.com/energy/en/news-research/latest-news/energy-transition/121025-eu-cbam-committee-approves-revised-default-benchmark-carbon-intensity-values"
+    },
+    {
+      "id": 17,
+      "category": "2. EU Benchmark Values",
+      "data": "Provisional CBAM calculation values (benchmarks by route)",
+      "source": "OPIS (Jan 2026)",
+      "url": "https://www.opis.com/resources/energy-market-news-from-opis/provisional-cbam-calculation-values-pass-committee-vote/"
+    },
+    {
+      "id": 18,
+      "category": "2. EU Benchmark Values",
+      "data": "CBAM default values explained (with comparison examples)",
+      "source": "cbamguide.com",
+      "url": "https://cbamguide.com/exporters/default-values/"
+    },
+    {
+      "id": 19,
+      "category": "2. EU Benchmark Values",
+      "data": "EU CBAM committee revised values (stainless steel, DRI)",
+      "source": "S&P Global",
+      "url": "https://www.spglobal.com/energy/en/news-research/latest-news/energy-transition/121025-eu-cbam-committee-approves-revised-default-benchmark-carbon-intensity-values"
+    },
+    {
+      "id": 20,
+      "category": "3. Trade Data",
+      "data": "UN Comtrade — International trade statistics",
+      "source": "UN Comtrade",
+      "url": "https://comtrade.un.org/"
+    },
+    {
+      "id": 21,
+      "category": "3. Trade Data",
+      "data": "Iran trade and economic data",
+      "source": "Iran Open Data",
+      "url": "https://iranopendata.org/en/"
+    },
+    {
+      "id": 22,
+      "category": "3. Trade Data",
+      "data": "Iran statistical yearbook (latest)",
+      "source": "Statistical Centre of Iran",
+      "url": "https://www.amar.org.ir/en/Data-and-Statistical-Information/Environment-and-multi-domain-statistics/Iran-Statistical-Yearbook"
+    },
+    {
+      "id": 23,
+      "category": "3. Trade Data",
+      "data": "Iran minerals production (steel, aluminium, cement)",
+      "source": "USGS Minerals Yearbook 2023 — Iran",
+      "url": "https://pubs.usgs.gov/myb/vol3/2023/myb3-2023-iran.pdf"
+    },
+    {
+      "id": 24,
+      "category": "3. Trade Data",
+      "data": "Iran mining and mineral exports",
+      "source": "IMIDRO (via Trend News)",
+      "url": "https://www.trend.az/iran/3897213.html"
+    },
+    {
+      "id": 25,
+      "category": "3. Trade Data",
+      "data": "Iran aluminium exports data",
+      "source": "USGS — Iran country page",
+      "url": "https://www.usgs.gov/centers/national-minerals-information-center/iran"
+    },
+    {
+      "id": 26,
+      "category": "4. Emission and Energy Data",
+      "data": "IEA Emission Factors 2024",
+      "source": "International Energy Agency",
+      "url": "https://www.iea.org/data-and-statistics/data-product/emissions-factors-2024"
+    },
+    {
+      "id": 27,
+      "category": "4. Emission and Energy Data",
+      "data": "GHG emissions of all world countries (2025 report)",
+      "source": "EDGAR — JRC European Commission",
+      "url": "https://edgar.jrc.ec.europa.eu/report_2025"
+    },
+    {
+      "id": 28,
+      "category": "4. Emission and Energy Data",
+      "data": "Iran CO2 emissions profile",
+      "source": "Our World in Data",
+      "url": "https://ourworldindata.org/profile/co2/iran"
+    },
+    {
+      "id": 29,
+      "category": "4. Emission and Energy Data",
+      "data": "Iran electricity generation and emissions",
+      "source": "Ember Energy",
+      "url": "https://ember-energy.org/countries-and-regions/iran/"
+    },
+    {
+      "id": 30,
+      "category": "4. Emission and Energy Data",
+      "data": "Iran electricity data (generation mix, emissions)",
+      "source": "World Power Monitor",
+      "url": "https://worldpowermonitor.com/countries/iran/"
+    },
+    {
+      "id": 31,
+      "category": "4. Emission and Energy Data",
+      "data": "Iran Country Analysis Brief (energy)",
+      "source": "U.S. Energy Information Administration",
+      "url": "https://www.eia.gov/international/content/analysis/countries_long/Iran/pdf/Iran%20CAB%202024.pdf"
+    },
+    {
+      "id": 32,
+      "category": "4. Emission and Energy Data",
+      "data": "World Steel in Figures 2026 (emission intensity)",
+      "source": "World Steel Association",
+      "url": "https://worldsteel.org/data/world-steel-in-figures/world-steel-in-figures-2026/"
+    },
+    {
+      "id": 33,
+      "category": "4. Emission and Energy Data",
+      "data": "Global Steel Industry Analysis (Iran carbon intensity)",
+      "source": "Global Energy Monitor",
+      "url": "https://globalenergymonitor.org/sites/default/files/2026-05/Pedal%20to%20the%20Metal%202026.pdf"
+    },
+    {
+      "id": 34,
+      "category": "4. Emission and Energy Data",
+      "data": "Iran CO2 emissions from power industry",
+      "source": "World Bank",
+      "url": "https://data.worldbank.org/indicator/EN.GHG.CO2.PI.MT.CE.AR5?locations=IR"
+    },
+    {
+      "id": 35,
+      "category": "4. Emission and Energy Data",
+      "data": "Iran total GHG emissions",
+      "source": "World Bank",
+      "url": "https://data.worldbank.org/indicator/EN.GHG.ALL.MT.CE.AR5?locations=IR"
+    },
+    {
+      "id": 36,
+      "category": "5. EUA Price Forecasts",
+      "data": "EU carbon price forecasts 2026-2027 (analyst survey)",
+      "source": "Reuters (Apr 2026)",
+      "url": "https://www.reuters.com/sustainability/climate-energy/analysts-cut-eu-carbon-price-forecasts-policy-reforms-2026-04-30/"
+    },
+    {
+      "id": 37,
+      "category": "5. EUA Price Forecasts",
+      "data": "EU carbon price forecasts revised down (Jul 2026)",
+      "source": "Reuters (Jul 2026)",
+      "url": "https://www.reuters.com/business/analysts-lower-eu-carbon-price-forecasts-2026-2027-market-reform-proposals-2026-07-31/"
+    },
+    {
+      "id": 38,
+      "category": "5. EUA Price Forecasts",
+      "data": "Long-term EUA price forecast (to 2035+)",
+      "source": "Veyt (Jul 2025)",
+      "url": "https://veyt.com/eu-ets/long-term-eua-price-forecast-trade-measures-impact-near-term-industrial-activity-2/"
+    },
+    {
+      "id": 39,
+      "category": "5. EUA Price Forecasts",
+      "data": "EU ETS supply, demand and price forecast",
+      "source": "LSEG",
+      "url": "https://www.lseg.com/content/dam/data-analytics/en_us/documents/reports/lseg-eu-ets-supply-demand-and-pricing-forecast-summary.pdf"
+    },
+    {
+      "id": 40,
+      "category": "5. EUA Price Forecasts",
+      "data": "EU ETS trends and macroeconomic role",
+      "source": "European Commission DG ECFIN",
+      "url": "https://economy-finance.ec.europa.eu/trends-carbon-intensity-and-macroeconomic-role-eu-emissions-trading-system_en"
+    },
+    {
+      "id": 41,
+      "category": "6. Iran Economic and I-O Data",
+      "data": "Iran input-output table (base year 1395/2016-17)",
+      "source": "Central Bank of Iran",
+      "url": "https://www.cbi.ir/simplelist/2861.aspx"
+    },
+    {
+      "id": 42,
+      "category": "6. Iran Economic and I-O Data",
+      "data": "Iran economic trends and data",
+      "source": "Central Bank of Iran",
+      "url": "https://www.cbi.ir/page/24202.aspx"
+    },
+    {
+      "id": 43,
+      "category": "6. Iran Economic and I-O Data",
+      "data": "Iran energy and environment data portal",
+      "source": "Iran Data Portal — Syracuse University",
+      "url": "https://irandataportal.syr.edu/energy-environment/"
+    },
+    {
+      "id": 44,
+      "category": "6. Iran Economic and I-O Data",
+      "data": "Iran statistical yearbooks",
+      "source": "Iran Data Portal — Syracuse University",
+      "url": "https://irandataportal.syr.edu/socio-economic-data/statistical-yearbook/"
+    },
+    {
+      "id": 45,
+      "category": "6. Iran Economic and I-O Data",
+      "data": "Iran national data portal (open government data)",
+      "source": "data.gov.ir",
+      "url": "https://data.gov.ir/"
+    },
+    {
+      "id": 46,
+      "category": "6. Iran Economic and I-O Data",
+      "data": "Iran CPI and economic data",
+      "source": "Central Bank of Iran (via HuggingFace)",
+      "url": "https://huggingface.co/datasets/Farmaanaa/iran_cpi_central_bank"
+    },
+    {
+      "id": 47,
+      "category": "6. Iran Economic and I-O Data",
+      "data": "Iran energy balance sheets (historical)",
+      "source": "Iran Data Portal — Syracuse University",
+      "url": "https://irandataportal.syr.edu/energy-environment/"
+    },
+    {
+      "id": 48,
+      "category": "7. IJES Journal Articles (for citation)",
+      "data": "Abazari Askari et al. (2025) — Electricity Outage Cost: I-O Analysis",
+      "source": "10.22099/ijes.2025.53520.2047",
+      "url": "https://ijes.shirazu.ac.ir/article_8299.html"
+    },
+    {
+      "id": 49,
+      "category": "7. IJES Journal Articles (for citation)",
+      "data": "Hosseinzadeh et al. (2025) — Emission Trading & Structural Change",
+      "source": "10.22099/ijes.2025.54213.2059",
+      "url": "https://ijes.shirazu.ac.ir/article_8379.html"
+    },
+    {
+      "id": 50,
+      "category": "7. IJES Journal Articles (for citation)",
+      "data": "Jalaee et al. (2025) — Energy Price Reforms & Decarbonization",
+      "source": "10.22099/ijes.2025.53483.2044",
+      "url": "https://ijes.shirazu.ac.ir/article_8207.html"
+    },
+    {
+      "id": 51,
+      "category": "7. IJES Journal Articles (for citation)",
+      "data": "Mohseni Zonouzi & Aminpour (2026) — Macroeconomic Policy & CO2",
+      "source": "10.22099/ijes.2026.55438.2101",
+      "url": "https://ijes.shirazu.ac.ir/article_8588.html"
+    },
+    {
+      "id": 52,
+      "category": "7. IJES Journal Articles (for citation)",
+      "data": "Khalili et al. (2025) — Environmental Impacts & Industrial Energy",
+      "source": "10.22099/ijes.2025.52747.2020",
+      "url": "https://ijes.shirazu.ac.ir/article_8128.html"
+    },
+    {
+      "id": 53,
+      "category": "7. IJES Journal Articles (for citation)",
+      "data": "Akhgari et al. (2025) — Economic Complexity: Iran & MENA",
+      "source": "10.22099/ijes.2025.53975.2055",
+      "url": "https://ijes.shirazu.ac.ir/article_8334.html"
+    },
+    {
+      "id": 54,
+      "category": "7. IJES Journal Articles (for citation)",
+      "data": "Raoofmehr et al. (2025) — Renewable Power Plants Competitiveness",
+      "source": "10.22099/ijes.2025.54626.2073",
+      "url": "https://ijes.shirazu.ac.ir/article_8409.html"
+    },
+    {
+      "id": 55,
+      "category": "8. Methodology References",
+      "data": "EMEP/EEA Emission Inventory Guidebook 2019 — Uncertainties",
+      "url": "https://www.eea.europa.eu/publications/emep-eea-guidebook-2019/part-a-general-guidance-chapters/5-uncertainties"
+    },
+    {
+      "id": 56,
+      "category": "8. Methodology References",
+      "data": "NIST SP 1324 — Systematic Review of Embodied Carbon Assessment",
+      "url": "https://nvlpubs.nist.gov/nistpubs/SpecialPublications/NIST.SP.1324.pdf"
+    },
+    {
+      "id": 57,
+      "category": "8. Methodology References",
+      "data": "ECB Working Paper 3177 — CBAM implications for trade partners",
+      "url": "https://www.ecb.europa.eu/pub/pdf/scpwps/ecb.wp3177~c5feb7f15a.en.pdf"
+    },
+    {
+      "id": 58,
+      "category": "8. Methodology References",
+      "data": "Carbon Trust — CBAM for steel and aluminium exporters",
+      "url": "https://www.carbontrust.com/news-and-insights/insights/cbam-what-it-means-for-exporters-of-steel-iron-and-aluminium"
+    },
+    {
+      "id": 59,
+      "category": "8. Methodology References",
+      "data": "CER — Learning from CBAM's transitional phase",
+      "url": "https://www.cer.eu/publications/archive/policy-brief/2024/learning-cbams-transitional-impacts-trade"
+    },
+    {
+      "id": 60,
+      "category": "8. Methodology References",
+      "data": "IEEP — CBAM reform and implementation challenges for LMICs",
+      "url": "https://ieep.eu/wp-content/uploads/2025/05/The-EU-CBAMs-reform-and-remaining-implementation-challenges-for-low-and-middle-income-countries-IEEP-2025.pdf"
+    },
+    {
+      "id": 61,
+      "category": "8. Methodology References",
+      "data": "ECDPM — EU CBAM and developing countries",
+      "url": "https://ecdpm.org/application/files/4817/3210/5775/EU-Carbon-Border-Adjustment-Mechanism-Developing-Countries-Threats-Opportunities-Strategic-Responses-ECDPM-Discussion-Paper-380-2024.pdf"
+    },
+    {
+      "id": 62,
+      "category": "8. Methodology References",
+      "data": "Springer — Impact of EU CBAM on developing countries (2025)",
+      "url": "https://link.springer.com/content/pdf/10.1007/s43621-025-01131-x.pdf"
+    },
+    {
+      "id": 63,
+      "category": "8. Methodology References",
+      "data": "Wiley — CBAM as a Trade Shifter (2025)",
+      "url": "https://onlinelibrary.wiley.com/doi/10.1155/er/5520202"
+    },
+    {
+      "id": 64,
+      "category": "8. Methodology References",
+      "data": "Kleinman Energy — Policy Design Issues for Border Carbon Adjustments",
+      "url": "https://kleinmanenergy.upenn.edu/wp-content/uploads/2026/02/KCEP-Digest-91-Policy-Design-Issues-for-Border-Carbon-Adjustments.pdf"
+    },
+    {
+      "id": 65,
+      "category": "8. Methodology References",
+      "data": "UCT — Measuring EU CBAM Incidence at the Product Level",
+      "url": "https://commerce.uct.ac.za/sites/default/files/media/documents/commerce_uct_ac_za/869/prism-working-paper-2026-5.pdf"
+    },
+    {
+      "id": 66,
+      "category": "9. Iranian Government Data Portals",
+      "data": "National Data Portal of Iran (open government data)",
+      "url": "https://data.gov.ir/"
+    },
+    {
+      "id": 67,
+      "category": "9. Iranian Government Data Portals",
+      "data": "Statistical Centre of Iran",
+      "url": "https://www.amar.org.ir/en/"
+    },
+    {
+      "id": 68,
+      "category": "9. Iranian Government Data Portals",
+      "data": "Central Bank of Iran",
+      "url": "https://www.cbi.ir/default_en.aspx"
+    },
+    {
+      "id": 69,
+      "category": "9. Iranian Government Data Portals",
+      "data": "Iran Open Data (independent data hub)",
+      "url": "https://iranopendata.org/en/"
+    },
+    {
+      "id": 70,
+      "category": "9. Iranian Government Data Portals",
+      "data": "Iran Data Portal — Syracuse University (government data in English)",
+      "url": "https://irandataportal.syr.edu/data/"
+    },
+    {
+      "id": 71,
+      "category": "9. Iranian Government Data Portals",
+      "data": "Iran in Data",
+      "url": "https://iranindata.org/en/charts"
+    },
+    {
+      "id": 72,
+      "category": "9. Iranian Government Data Portals",
+      "data": "ISIRI — Iran National Standards Organization",
+      "url": "https://en.inso.gov.ir/"
+    }
+  ]
+}

@@ -1,0 +1,7 @@
+sector,year,world_exports_usd,method,source
+Iron & Steel,2024,1417701769.18,mirror,UN Comtrade partner-reported imports from Iran (fetch_comtrade.py mirror)
+Steel Articles,2024,197546641.21,mirror,UN Comtrade partner-reported imports from Iran (fetch_comtrade.py mirror)
+Aluminium,2024,651057361.3,mirror,UN Comtrade partner-reported imports from Iran (fetch_comtrade.py mirror)
+Cement,2024,247199120.06,mirror,UN Comtrade partner-reported imports from Iran (fetch_comtrade.py mirror)
+Fertilisers,2024,1521000000.0,triangulated,"4.5 Mt urea (StoneX, 2025) x USD 338/t (World Bank Pink Sheet 2024)"
+Hydrogen,2024,0.0,mirror,UN Comtrade partner-reported imports from Iran (fetch_comtrade.py mirror)

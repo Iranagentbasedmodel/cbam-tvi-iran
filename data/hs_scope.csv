@@ -1,0 +1,46 @@
+sector,hs_code,action
+Iron & Steel,72,include
+Steel Articles,7301,include
+Steel Articles,7302,include
+Steel Articles,7303,include
+Steel Articles,7304,include
+Steel Articles,7305,include
+Steel Articles,7306,include
+Steel Articles,7307,include
+Steel Articles,7308,include
+Steel Articles,7309,include
+Steel Articles,7310,include
+Steel Articles,7311,include
+Steel Articles,7318,include
+Steel Articles,7326,include
+Aluminium,7601,include
+Aluminium,7603,include
+Aluminium,7604,include
+Aluminium,7605,include
+Aluminium,7606,include
+Aluminium,7607,include
+Aluminium,7608,include
+Aluminium,7609,include
+Aluminium,7610,include
+Aluminium,7611,include
+Aluminium,7612,include
+Aluminium,7613,include
+Aluminium,7614,include
+Aluminium,7616,include
+Cement,2523,include
+Fertilisers,2808,include
+Fertilisers,2814,include
+Fertilisers,283421,include
+Fertilisers,3102,include
+Fertilisers,3105,include
+Hydrogen,280410,include
+Iron & Steel,720221,exclude
+Iron & Steel,720229,exclude
+Iron & Steel,720230,exclude
+Iron & Steel,720250,exclude
+Iron & Steel,720270,exclude
+Iron & Steel,720280,exclude
+Iron & Steel,720291,exclude
+Iron & Steel,720292,exclude
+Iron & Steel,720293,exclude
+Iron & Steel,720299,exclude

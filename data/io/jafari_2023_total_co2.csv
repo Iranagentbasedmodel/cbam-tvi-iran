@@ -1,0 +1,4 @@
+product_group,total_co2_t_per_bn_rials,output_multiplier,co2_per_output_growth,cbam_sectors
+Non-metallic mineral products,142,1.848,77,Cement
+Basic metals,52,2.213,24,Iron & Steel;Aluminium
+Basic chemical products,52,1.978,26,Fertilisers;Hydrogen

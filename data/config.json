@@ -1,0 +1,77 @@
+{
+  "_about": "Model settings. All numeric data live in the CSV files of this folder; this file holds analysis choices only.",
+  "sectors": [
+    "Iron & Steel",
+    "Aluminium",
+    "Cement",
+    "Fertilisers",
+    "Hydrogen",
+    "Steel Articles"
+  ],
+  "base_year": 2026,
+  "trade_year": 2024,
+  "report_years": [
+    2026,
+    2027,
+    2028,
+    2030,
+    2034
+  ],
+  "eur_usd": 1.13,
+  "normalisation": "max",
+  "weights": {
+    "exposure_within_E": 0.5,
+    "gap_within_S": 0.5,
+    "E_exponent": 0.5
+  },
+  "monte_carlo": {
+    "n_draws": 10000,
+    "seed": 42,
+    "z_90": 1.645,
+    "sigma_floor": 0.15,
+    "alt_correlation": {
+      "pair": [
+        "Iron & Steel",
+        "Steel Articles"
+      ],
+      "rho": 0.8
+    }
+  },
+  "eua_sensitivity_prices": [
+    50,
+    75,
+    100
+  ],
+  "breakeven": {
+    "margin": 0.1,
+    "year": 2034
+  },
+  "threshold": {
+    "sector": "Iron & Steel",
+    "actual_route": "DRI-EAF HRC",
+    "years": [
+      2026,
+      2027,
+      2028,
+      2029,
+      2030,
+      2031,
+      2032,
+      2033,
+      2034
+    ]
+  },
+  "weight_grid": [
+    0.3,
+    0.5,
+    0.7
+  ],
+  "io": {
+    "file": "io/cbi_io_1395_activity_89.csv",
+    "n": 89,
+    "first_row": 3,
+    "first_col": 2,
+    "total_output_row": 100
+  },
+  "_sectors_note": "Order matters only for reproducing the published Monte Carlo draws (seed 42)."
+}
